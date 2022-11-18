@@ -4,7 +4,7 @@ My group consisted of Carissa, Samantha, Sara, and myself. Carissa took the role
 ## Self Assessment
 As for myself and the machine learning model. I had the most interest in this section of the project, but probably also the topic we all had the least exposure with. It was tricky to learn from YouTube videos and Googling articles. But through that and with help from Samantha, I feel I was able to complete my task and contribute to the success of the project. 
 
-#Team Assessment
+##Team Assessment
 I feel all team members did what was asked of them and carried their weight. I greatly enjoyed working with all three and would happily do so again. They are all very intelligent and hardworking individuals. We primary communicated via Zoom during class hours and via Slack when outside of those hours. Class was far more efficient however. 
 
 ## Project Summary
